@@ -1,4 +1,4 @@
-package edu.saintjoe.cs.aribicki.phones;
+package edu.saintjoe.cs.aribicki.telephone;
 
 public class Phone {
 
